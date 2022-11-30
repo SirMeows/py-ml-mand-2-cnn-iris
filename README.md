@@ -2,7 +2,7 @@
 
 ## Google Colab: https://colab.research.google.com/drive/131FnN1D-Elm9JxH_LuV-08IJ_3MXilVZ
 
-## Kaggle Dataset: https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset
+## Kaggle Dataset: https://www.kaggle.com/datasets/jeffheaton/iris-computer-vision
 
 ## Assignment description: [ml-mandatory-2-assignment.pdf](https://github.com/SirMeows/py-ml-mand-2-cnn-iris/files/10122707/ml-mandatory-2-assignment.pdf)
 
